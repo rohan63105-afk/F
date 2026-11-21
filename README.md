@@ -1,4 +1,4 @@
-# FMIT EECS Student Portal — Visual Refresh Final Pack
+# MIT EECS Student Portal — Visual Refresh Final Pack
 
 Static website package for GitHub + Vercel. Root index.html is the entry point.
 
